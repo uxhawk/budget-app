@@ -1,1 +1,1 @@
-# bidget-app
+# budget-app
